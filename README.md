@@ -56,6 +56,12 @@
 ### 🌐 Connect with Me:
 
 <p align="left">
+  <a href="https://patreon.com/soumyajitxedu" target="_blank">
+    <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon"/>
+  </a>
+  <a href="https://discord.gg/xf6ch55UYm" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
   <a href="https://github.com/soumyajitxedu" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
