@@ -40,9 +40,9 @@
 ╚══════════════════════════════════════════════════════════════════╝
 
 name: "Soumyajit Das"
-role: "Full Stack Developer | AI Engineer | Blockchain Enthusiast"
+role: "unknown"
 location: "India 🇮🇳"
-status: "Building the next generation of intelligent systems"
+status: "learning"
 
 expertise:
   core:
