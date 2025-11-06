@@ -2,7 +2,7 @@
 <div align="center">
 
 <!-- FUTURISTIC HERO SECTION WITH PARTICLES -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6,7,12,14,20,24&height=280&section=header&text=SOUMYAJIT%20DAS&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Digital%20Alchemist%20%E2%9C%A8%20AI%20Architect%20%F0%9F%9A%80%20Innovation%20Engineer&descAlignY=55&descSize=22"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6,7,12,14,20,24&height=280&section=header&text=SOUMYAJIT%20DAS&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Digital%20Alchemist%20%E2%9C%A8%20AI%20Architect%20%F0%9F%9A%80%20bulshit%20unknown&descAlignY=55&descSize=22"/>
 
 <!-- GLOWING TYPEWRITER EFFECT -->
 <div align="center">
