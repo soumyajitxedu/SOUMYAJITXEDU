@@ -71,7 +71,7 @@ const soumyajit = {
 ### 💡 EXPERTISE MATRIX
 
 ```python
-expertise = {
+interest i mean know little = {
     "AI/ML": ["TensorFlow", "PyTorch", "Transformers"],
     "Backend": ["Python", "Node.js", "Django", "FastAPI"],
     "Frontend": ["React", "Next.js", "TypeScript"],
@@ -100,7 +100,7 @@ print(f"Building the future: {sum(len(v) for v in expertise.values())} technolog
 <tr>
 <td align="center" width="25%">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Fire.png" alt="Fire" width="50" height="50" />
-<br/><b>1500+</b>
+<br/><b>5+</b>
 <br/><sub>Problems Solved</sub>
 </td>
 <td align="center" width="25%">
