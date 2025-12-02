@@ -29,7 +29,7 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Light%20Skin%20Tone.png" alt="Technologist" width="40" height="40" /> WHO AM I? <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="40" height="40" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=AI+Engineer+%7C+Full+Stack+Developer+%7C+Tech+Innovator;Building+the+future+with+AI%2C+Blockchain+%26+Cloud;Open+Source+Enthusiast+%7C+Lifelong+Learner+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=AI+Engineer+maybe?+%7C+Full+Stack+Developer?+%7C+Tech+Innovator;Building+the+future+with+AI%2C+Blockchain+%26+Cloud;Open+Source+Enthusiast+%7C+Lifelong+Learner+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 </div>
@@ -68,10 +68,10 @@ const soumyajit = {
 </td>
 <td width="50%" valign="top">
 
-### 💡 EXPERTISE MATRIX
+### 💡 LIE MATRIX
 
 ```python
-interest i mean know little = {
+interest  = {
     "AI/ML": ["TensorFlow", "PyTorch", "Transformers"],
     "Backend": ["Python", "Node.js", "Django", "FastAPI"],
     "Frontend": ["React", "Next.js", "TypeScript"],
@@ -110,7 +110,7 @@ print(f"Building the future: {sum(len(v) for v in expertise.values())} technolog
 </td>
 <td align="center" width="25%">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="50" height="50" />
-<br/><b>75+</b>
+<br/><b>44+</b>
 <br/><sub>Certifications</sub>
 </td>
 <td align="center" width="25%">
@@ -137,7 +137,8 @@ print(f"Building the future: {sum(len(v) for v in expertise.values())} technolog
 ║                                                              ║
 ║  "Code is poetry written in logic.                          ║
 ║   Design is art crafted with purpose.                       ║
-║   Innovation is the bridge between dreams and reality."     ║
+║   Innovation is the bridge between dreams and reality.       ║
+║    but i fucked up"                                           ║
 ║                                                              ║
 ║  ~ Soumyajit Das                                            ║
 ║                                                              ║
