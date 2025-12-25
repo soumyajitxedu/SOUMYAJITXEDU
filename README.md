@@ -26,7 +26,7 @@
 <!-- ENHANCED ABOUT SECTION -->
 <div align="center">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Light%20Skin%20Tone.png" alt="Technologist" width="40" height="40" /> WHO AM I? <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="40" height="40" />
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Light%20Skin%20Tone.png" alt="Technologist" width="40" height="40" />  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="40" height="40" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=AI+Engineer+maybe?+%7C+Full+Stack+Developer?+%7C+Tech+Innovator;Building+the+future+with+AI%2C+Blockchain+%26+Cloud;Open+Source+Enthusiast+%7C+Lifelong+Learner+%F0%9F%9A%80" alt="Typing SVG" />
@@ -105,7 +105,7 @@ print(f"Building the future: {sum(len(v) for v in expertise.values())} technolog
 </td>
 <td align="center" width="25%">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="50" height="50" />
-<br/><b>150+</b>
+<br/><b>77+</b>
 <br/><sub>Articles Written</sub>
 </td>
 <td align="center" width="25%">
@@ -135,10 +135,10 @@ print(f"Building the future: {sum(len(v) for v in expertise.values())} technolog
 ```ascii
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
-║  "Code is poetry written in logic.                          ║
-║   Design is art crafted with purpose.                       ║
-║   Innovation is the bridge between dreams and reality.       ║
-║    but i fucked up"                                           ║
+║  "logic is everything.                                        ║
+║   code is wrapper.                                            ║
+║   Innovation is the bridge between dreams and reality .       ║
+║    but i fucked up" in the end doesn't matter                 ║
 ║                                                              ║
 ║  ~ Soumyajit Das                                            ║
 ║                                                              ║
@@ -933,199 +933,6 @@ categories:
 <!-- INSPIRATIONAL QUOTE -->
 <div align="center">
 
-## 💭 ━━ DEVELOPER WISDOM ━━
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it&author=Alan%20Kay)
-
-</div>
-
-<!-- CYBER DIVIDER -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<!-- DEVELOPER HUMOR -->
-<div align="center">
-
-## 😂 ━━ DEV HUMOR INJECTION ━━
-
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&qLayout=horizontal&aLayout=horizontal" alt="Jokes Card" />
-
-</div>
-
-<!-- FOOTER WAVE -->
-<div align="center">
-
-<!-- FOOTER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6,7,12,14,20,24&height=150&section=footer&animation=fadeIn&fontColor=fff"/>
-
-
-## 🎯 Quick Navigation
-
-<div align="center">
-
-| [💻 Development](#-development--version-control) | [⚡ Competitive](#-competitive-coding--problem-solving) | [🤖 AI/ML](#-artificial-intelligence--machine-learning) | [🎨 Creative](#-creative--design) |
-|:---:|:---:|:---:|:---:|
-| [✍️ Content](#-content--community) | [📱 Social](#-social-media--networking) | [🎮 Gaming](#-gaming--entertainment) | [🎓 Learning](#-learning--certifications) |
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-</div>
-
----
-
-## 💻 Development & Version Control
-
-<div align="center">
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Building+%7C+Coding+%7C+Deploying;Open+Source+Contributor;Full+Stack+Developer" alt="Dev Typing"/>
-</a>
-
-<br/><br/>
-
-<!-- Development Platform Cards -->
-<table>
-<tr>
-<td align="center" width="33%">
-<br>
-<a href="https://github.com/soumyajitxedu">
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" width="80px"/><br/><br/>
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-<br/><br/>
-<img src="https://img.shields.io/github/followers/soumyajitxedu?label=Followers&style=social" alt="Followers"/>
-<br/>
-<img src="https://img.shields.io/badge/Repos-Public-blue?style=flat-square&logo=github" alt="Repos"/>
-<br/>
-<img src="https://img.shields.io/badge/Stars-Received-yellow?style=flat-square&logo=github" alt="Stars"/>
-</a>
-<br>
-</td>
-<td align="center" width="33%">
-<br>
-<a href="https://gitlab.com/soumyajitxedu">
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gitlab-Dark.svg" width="80px"/><br/><br/>
-<img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/Projects-Active-orange?style=flat-square&logo=gitlab" alt="Projects"/>
-<br/>
-<img src="https://img.shields.io/badge/CI/CD-Configured-red?style=flat-square&logo=gitlab" alt="CI/CD"/>
-<br/>
-<img src="https://img.shields.io/badge/Version-Control-darkred?style=flat-square&logo=gitlab" alt="Version Control"/>
-</a>
-<br>
-</td>
-<td align="center" width="33%">
-<br>
-<a href="https://codepen.io/soumyajitdas">
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CodePen-Light.svg" width="80px"/><br/><br/>
-<img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/Pens-50%2B-black?style=flat-square&logo=codepen" alt="Pens"/>
-<br/>
-<img src="https://img.shields.io/badge/Frontend-Expert-darkgray?style=flat-square&logo=codepen" alt="Frontend"/>
-<br/>
-<img src="https://img.shields.io/badge/CSS-Artist-gray?style=flat-square&logo=codepen" alt="CSS Art"/>
-</a>
-<br>
-</td>
-</tr>
-</table>
-
-<!-- GitHub Stats -->
-<br/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=soumyajitxedu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=soumyajitxedu&theme=tokyonight&hide_border=true&background=0D1117&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff" />
-
-<br/>
-
-<!-- Language Stats -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumyajitxedu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" width="49%"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=soumyajitxedu&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%"/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-</div>
-
----
-
-## ⚡ Competitive Coding & Problem Solving
-
-<div align="center">
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Problem+Solver+💻;Algorithm+Enthusiast;Data+Structures+Master;Competitive+Programmer+🏆" alt="Coding Typing"/>
-</a>
-
-<br/><br/>
-
-<!-- Competitive Platform Grid -->
-<table>
-<tr>
-<td align="center" width="25%">
-<br>
-<a href="https://leetcode.com/u/Soumyajitxedu/">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="80px" alt="LeetCode"/><br/><br/>
-<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/Solved-500%2B-brightgreen?style=flat-square&logo=leetcode" alt="Solved"/>
-<br/>
-<img src="https://img.shields.io/badge/Rating-★★★★☆-yellow?style=flat-square" alt="Rating"/>
-</a>
-<br>
-</td>
-<td align="center" width="25%">
-<br>
-<a href="https://www.codewars.com/users/soumyajitxedu">
-<img src="https://docs.codewars.com/logo.svg" width="80px" alt="Codewars"/><br/><br/>
-<img src="https://img.shields.io/badge/-Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" alt="Codewars"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/Kyu-Mastery-red?style=flat-square&logo=codewars" alt="Kyu"/>
-<br/>
-<img src="https://img.shields.io/badge/Honor-Top%2010%25-crimson?style=flat-square" alt="Honor"/>
-</a>
-<br>
-</td>
-<td align="center" width="25%">
-<br>
-<a href="https://www.hackerrank.com/profile/soumyajitxedu">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="80px" alt="HackerRank"/><br/><br/>
-<img src="https://img.shields.io/badge/-HackerRank-00EA64?style=for-the-badge&logo=HackerRank&logoColor=black" alt="HackerRank"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/Stars-⭐⭐⭐⭐⭐-gold?style=flat-square" alt="Stars"/>
-<br/>
-<img src="https://img.shields.io/badge/Certified-5★-green?style=flat-square" alt="Certified"/>
-</a>
-<br>
-</td>
-<td align="center" width="25%">
-<br>
-<a href="https://ctf.hackthebox.com/user/profile/771685">
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HackTheBox-Dark.svg" width="80px" alt="Hack The Box"/><br/><br/>
-<img src="https://img.shields.io/badge/-Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="HTB"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/Rank-Hacker-lime?style=flat-square&logo=hackthebox" alt="Rank"/>
-<br/>
-<img src="https://img.shields.io/badge/CTF-Active-brightgreen?style=flat-square" alt="CTF"/>
-</a>
-<br>
-</td>
-</tr>
-</table>
-
-<br/>
-
-```ascii
-╔═══════════════════════════════════════════════════════════════════════╗
-║  🎯 Problems Solved: 1000+  |  🏆 Contests: 50+  |  ⚡ Daily Streak    ║
-╚═══════════════════════════════════════════════════════════════════════╝
-```
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-</div>
-
----
 
 ## 🤖 Artificial Intelligence & Machine Learning
 
@@ -1749,29 +1556,6 @@ categories:
 </p>
 
 <!-- Frontend -->
-<h3>🎨 Frontend Development</h3>
-<p>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" width="48" title="HTML5"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" width="48" title="CSS3"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" width="48" title="React"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Dark.svg" width="48" title="Next.js"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Vue-Dark.svg" width="48" title="Vue.js"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg" width="48" title="Tailwind CSS"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg" width="48" title="Bootstrap"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Sass.svg" width="48" title="Sass"/>
-</p>
-
-<!-- Backend -->
-<h3>⚙️ Backend Development</h3>
-<p>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" width="48" title="Node.js"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ExpressJS-Dark.svg" width="48" title="Express.js"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Django.svg" width="48" title="Django"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flask-Dark.svg" width="48" title="Flask"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/FastAPI.svg" width="48" title="FastAPI"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Spring-Dark.svg" width="48" title="Spring"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/DotNet.svg" width="48" title=".NET"/>
-</p>
 
 <!-- AI/ML -->
 <h3>🤖 AI/ML & Data Science</h3>
@@ -1826,64 +1610,8 @@ categories:
 
 ---
 
-## 🏆 Achievements & Highlights
 
-<div align="center">
 
-<!-- Achievement Stats -->
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80px"/><br/>
-<h3>🎯 1500+</h3>
-<sub><b>Problems Solved</b></sub>
-</td>
-<td align="center" width="25%">
-<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80px"/><br/>
-<h3>📝 150+</h3>
-<sub><b>Articles Published</b></sub>
-</td>
-<td align="center" width="25%">
-<img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="80px"/><br/>
-<h3>🤝 15K+</h3>
-<sub><b>Network Reach</b></sub>
-</td>
-<td align="center" width="25%">
-<img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="80px"/><br/>
-<h3>🏅 75+</h3>
-<sub><b>Certifications</b></sub>
-</td>
-</tr>
-</table>
-
-<br/>
-
-```ascii
-╔══════════════════════════════════════════════════════════════════════════╗
-║                                                                          ║
-║   ⭐ GitHub Stars: 200+        |  🔱 Open Source Advocate                ║
-║   🏆 Contest Participant       |  🎓 Continuous Learner                  ║
-║   💡 Innovation Enthusiast     |  🚀 Tech Explorer                       ║
-║   🌟 Community Builder         |  📚 Knowledge Sharer                    ║
-║                                                                          ║
-╚══════════════════════════════════════════════════════════════════════════╝
-```
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-</div>
-
----
-
-## 💬 Let's Connect & Collaborate!
-
-<div align="center">
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=Open+to+Collaboration!+🤝;Let's+Build+Amazing+Things!+🚀;Always+Happy+to+Help!+💡;Reach+Out+Anytime!+📧" alt="Connect Typing"/>
-</a>
-
-<br/><br/>
 
 <!-- Primary Contact Buttons -->
 <p>
@@ -1932,7 +1660,7 @@ categories:
 
 <div align="center">
 
-### 🌟 *"Code is poetry written in logic."*
+
 
 <br/>
 
