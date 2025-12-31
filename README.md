@@ -29,7 +29,7 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Light%20Skin%20Tone.png" alt="Technologist" width="40" height="40" />  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="40" height="40" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=AI+Engineer+maybe?+%7C+Full+Stack+Developer?+%7C+Tech+Innovator;Building+the+future+with+AI%2C+Blockchain+%26+Cloud;Open+Source+Enthusiast+%7C+Lifelong+Learner+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=AI+Engineer+maybe?+%80" alt="Typing SVG" />
 </a>
 
 </div>
@@ -134,14 +134,14 @@ print(f"Building the future: {sum(len(v) for v in expertise.values())} technolog
 
 ```ascii
 ╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
+║                                                               ║
 ║  "logic is everything.                                        ║
 ║   code is wrapper.                                            ║
 ║   Innovation is the bridge between dreams and reality .       ║
 ║    but i fucked up" in the end doesn't matter                 ║
-║                                                              ║
-║  ~ Soumyajit Das                                            ║
-║                                                              ║
+║                   don't do DSA                                ║
+║  ~ Soumyajit Das                                              ║
+║                                                               ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
@@ -171,12 +171,12 @@ print(f"Building the future: {sum(len(v) for v in expertise.values())} technolog
 <td align="center" width="25%">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="60" height="60" />
 <br/><b>Eternal Learner</b>
-<br/><sub>Never Stop Growing</sub>
+<br/><sub>Never Stop Growing? becuz already stopped </sub>
 </td>
 <td align="center" width="25%">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="60" height="60" />
 <br/><b>Debug Master</b>
-<br/><sub>Bugs Fear Me</sub>
+<br/><sub>i fear bugs too much</sub>
 </td>
 </tr>
 </table>
@@ -894,21 +894,6 @@ categories:
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=soumyajitxedu&layout=donut&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8&border_radius=10&custom_title=📊%20Language%20Breakdown" alt="Language Donut" />
 </p>
 
-### 🏆 ACHIEVEMENT SHOWCASE
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=soumyajitxedu&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&row=3&column=7&title=MultiLanguage,Commits,Stars,Followers,Repositories,PullRequest,Issues" alt="Comprehensive Trophies" width="95%"/>
-</p>
-
-### 👁️ VISITOR ANALYTICS
-
-<p align="center">
-<img src="https://profile-counter.glitch.me/soumyajitxedu/count.svg" alt="Visitor Count" />
-<br>
-<img src="https://img.shields.io/badge/Profile%20Updated-January%202025-00D9FF?style=for-the-badge" alt="Last Updated" />
-</p>
-
-</div>
 
 <!-- QUANTUM DIVIDER -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
@@ -1541,68 +1526,6 @@ categories:
 
 <br/><br/>
 
-<!-- Programming Languages -->
-<h3>💻 Programming Languages</h3>
-<p>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="48" title="Python"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" width="48" title="JavaScript"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" width="48" title="TypeScript"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" width="48" title="Java"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg" width="48" title="C++"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" width="48" title="C"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CS.svg" width="48" title="C#"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Go.svg" width="48" title="Go"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Rust.svg" width="48" title="Rust"/>
-</p>
-
-<!-- Frontend -->
-
-<!-- AI/ML -->
-<h3>🤖 AI/ML & Data Science</h3>
-<p>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TensorFlow-Dark.svg" width="48" title="TensorFlow"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PyTorch-Dark.svg" width="48" title="PyTorch"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ScikitLearn-Dark.svg" width="48" title="Scikit-learn"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" title="Pandas"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" title="NumPy"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/OpenCV-Dark.svg" width="48" title="OpenCV"/>
-</p>
-
-<!-- Databases -->
-<h3>🗄️ Databases</h3>
-<p>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" width="48" title="PostgreSQL"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" width="48" title="MySQL"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg" width="48" title="MongoDB"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Redis-Dark.svg" width="48" title="Redis"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Cassandra-Dark.svg" width="48" title="Cassandra"/>
-</p>
-
-<!-- DevOps & Cloud -->
-<h3>☁️ DevOps & Cloud</h3>
-<p>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" width="48" title="Docker"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Kubernetes.svg" width="48" title="Kubernetes"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg" width="48" title="AWS"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Azure-Dark.svg" width="48" title="Azure"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GCP-Dark.svg" width="48" title="Google Cloud"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Jenkins-Dark.svg" width="48" title="Jenkins"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GitLab-Dark.svg" width="48" title="GitLab CI/CD"/>
-</p>
-
-<!-- Tools -->
-<h3>🛠️ Tools & Others</h3>
-<p>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" width="48" title="Git"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg" width="48" title="Linux"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bash-Dark.svg" width="48" title="Bash"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" width="48" title="VS Code"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Vim-Dark.svg" width="48" title="Vim"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg" width="48" title="Figma"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Unity-Dark.svg" width="48" title="Unity"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Arduino.svg" width="48" title="Arduino"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/RaspberryPi-Dark.svg" width="48" title="Raspberry Pi"/>
-</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
