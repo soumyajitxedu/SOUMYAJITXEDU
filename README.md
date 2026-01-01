@@ -1,5 +1,4 @@
 <div align="center">
-
 <!-- FUTURISTIC HERO SECTION WITH PARTICLES -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6,7,12,14,20,24&height=280&section=header&text=SOUMYAJIT%20DAS&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Digital%20Alchemist%20%E2%9C%A8%20AI%20Architect%20%F0%9F%9A%80%20Tech%20Innovator&descAlignY=55&descSize=22"/>
 
@@ -462,145 +461,6 @@ print(f"Building the future: {sum(len(v) for v in expertise.values())} technolog
 </a>
 
 <br/>
-
-### 💼 PROFESSIONAL NETWORKS
-
-<p align="center">
-<a href="https://github.com/soumyajitxedu" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://gitlab.com/soumyajitxedu" target="_blank">
-<img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
-</a>
-<a href="https://www.linkedin.com/in/soumyajit-das-6279412b0/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://g.dev/SOUMYAJITDAS" target="_blank">
-<img src="https://img.shields.io/badge/Google%20Developers-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Developers"/>
-</a>
-</p>
-
-### 🤖 AI/ML & DATA SCIENCE ARENA
-
-<p align="center">
-<a href="https://huggingface.co/Soumyajitxedu" target="_blank">
-<img src="https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=black" alt="Hugging Face"/>
-</a>
-<a href="https://www.kaggle.com/soumyajitworkspace" target="_blank">
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
-</a>
-<a href="https://www.modelscope.ai/profile/soumyajitxedu" target="_blank">
-<img src="https://img.shields.io/badge/ModelScope-624FE8?style=for-the-badge&logoColor=white" alt="ModelScope"/>
-</a>
-<a href="https://www.datacamp.com/portfolio/hykv79k31" target="_blank">
-<img src="https://img.shields.io/badge/DataCamp-03EF62?style=for-the-badge&logo=datacamp&logoColor=white" alt="DataCamp"/>
-</a>
-</p>
-
-### ⚡ COMPETITIVE CODING BATTLEGROUNDS
-
-<p align="center">
-<a href="https://leetcode.com/u/Soumyajitxedu/" target="_blank">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-</a>
-<a href="https://www.hackerrank.com/profile/soumyajitxedu" target="_blank">
-<img src="https://img.shields.io/badge/-HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/>
-</a>
-<a href="https://www.codewars.com/users/soumyajitxedu" target="_blank">
-<img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars"/>
-</a>
-<a href="https://ctf.hackthebox.com/user/profile/771685" target="_blank">
-<img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="Hack The Box"/>
-</a>
-</p>
-
-### 🎨 CREATIVE & DESIGN STUDIOS
-
-<p align="center">
-<a href="https://codepen.io/soumyajitdas" target="_blank">
-<img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen"/>
-</a>
-<a href="https://www.figma.com/@soumyajit_" target="_blank">
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-</a>
-<a href="https://discussions.unity.com/u/soumyajitdas/activity" target="_blank">
-<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
-</a>
-<a href="https://projecthub.arduino.cc/soumyajitxedu" target="_blank">
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino"/>
-</a>
-<a href="https://maker.pro/profile" target="_blank">
-<img src="https://img.shields.io/badge/Maker.pro-0066CC?style=for-the-badge&logoColor=white" alt="Maker.pro"/>
-</a>
-</p>
-
-### ✍️ CONTENT CREATION & PUBLISHING
-
-<p align="center">
-<a href="https://dev.to/soumyajitdas" target="_blank">
-<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/>
-</a>
-<a href="https://medium.com/@soumyajitworks26" target="_blank">
-<img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-</a>
-<a href="https://www.youtube.com/@soumyajitxedu" target="_blank">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-</a>
-</p>
-
-### 🌐 SOCIAL MEDIA ECOSYSTEM
-
-<p align="center">
-<a href="https://x.com/soumyajitxedu" target="_blank">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-</a>
-<a href="https://www.instagram.com/soumyajitxedu" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-<a href="https://www.reddit.com/u/SOUMYAJITXEDU" target="_blank">
-<img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/>
-</a>
-<a href="https://bsky.app/profile/soumyajitxedu.bsky.social" target="_blank">
-<img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky"/>
-</a>
-<a href="https://discord.gg/xf6ch55UYm" target="_blank">
-<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-</a>
-</p>
-
-### 🎮 GAMING & ENTERTAINMENT
-
-<p align="center">
-<a href="https://www.chess.com/member/soumyajitxedu" target="_blank">
-<img src="https://img.shields.io/badge/Chess.com-7FA650?style=for-the-badge&logo=chess.com&logoColor=white" alt="Chess.com"/>
-</a>
-<a href="https://www.xbox.com/en-IN/play/user/SOUMYAJIT8020" target="_blank">
-<img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" alt="Xbox"/>
-</a>
-</p>
-
-### 🎓 LEARNING & CERTIFICATIONS HUB
-
-<p align="center">
-<a href="https://www.coursera.org/learner/soumyajitdas" target="_blank">
-<img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" alt="Coursera"/>
-</a>
-<a href="https://www.cloudskillsboost.google/public_profiles/44f1f321-25d8-4ebe-abea-e8439c524439" target="_blank">
-<img src="https://img.shields.io/badge/Google%20Cloud%20Skills-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Cloud Skills"/>
-</a>
-<a href="https://skillshop.exceedlms.com/profiles/9a9f665d4c2f48c98aa8c178cd9c142e" target="_blank">
-<img src="https://img.shields.io/badge/Skillshop-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Skillshop"/>
-</a>
-<a href="https://www.credential.net/profile/soumyajitdas1/wallet" target="_blank">
-<img src="https://img.shields.io/badge/Credential.net-0052CC?style=for-the-badge&logoColor=white" alt="Credential.net"/>
-</a>
-</p>
-
-### 💖 SUPPORT THE MISSION
-
-<p align="center">
-<a href="https://patreon.com/soumyajitxedu" target="_blank">
-<img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon"/>
 </a>
 </p>
 
@@ -893,7 +753,11 @@ categories:
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=soumyajitxedu&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=10&border_radius=10&card_width=400&custom_title=🔥%20Most%20Used%20Languages" alt="Top Languages" />
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=soumyajitxedu&layout=donut&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8&border_radius=10&custom_title=📊%20Language%20Breakdown" alt="Language Donut" />
 </p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soumyajitxedu&theme=tokyonight&hide_border=true&background=0d1117" alt="streak" />
+</div>
 
+![Top Langs]
 
 <!-- QUANTUM DIVIDER -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
