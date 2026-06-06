@@ -540,7 +540,7 @@ const soumyajit = {
 <td width="50%" valign="top">
 
 ### 💡 INTEREST MATRIX
-
+<img src="https://media1.tenor.com/m/NU-qNSGdB_4AAAAd/sealyx-alya-sometimes-hides-her-feelings-in-russian.gif" width="47%" />
 
 <img src="https://i.giphy.com/8JCIWBz8oRRLZmZhNn.webp" width="47%">
 <img src="https://github.com/soumyajitxedu/others/blob/main/Untitled7_20260228161828.png " width="47%">
