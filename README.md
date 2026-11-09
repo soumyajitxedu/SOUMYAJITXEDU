@@ -11,6 +11,9 @@
 <!-- WAVING HEADER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6,7,12,14,20,24&height=120&section=header&fontSize=0"/>
 
+
+
+
 <!-- GLOWING TYPEWRITER -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B+I'm+Soumyajit+Das;AI+Architect+%7C+incomplte+Stack+Dev;Open+Source+Enthusiast+%F0%9F%9A%80;killing+the+Future+with+Code+%E2%9C%A8" alt="Typing SVG" />
@@ -285,6 +288,14 @@
 <!--                      GITHUB MATRIX                             -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
+
+<p align="center">
+  <a href="https://github.com/PramudithaN/git-tulkun">
+    <img src="https://raw.githubusercontent.com/soumyajitxedu/soumyajitxedu/output/tulkun/tulkun.gif" width="640" alt="soumyajitxedu's git-tulkun" />
+  </a>
+</p>
+
+
 <div align="center">
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px" height="35px"> ━━ GITHUB MATRIX ━━
@@ -295,63 +306,6 @@
 <img width="49%" src="https://github-readme-stats-one-bice.vercel.app/api?username=soumyajitxedu&theme=react&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_all_commits=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&border_radius=10&custom_title=💎%20GitHub%20Statistics&rank_icon=percentile" alt="GitHub Stats" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=soumyajitxedu&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B00&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=8B949E&border_radius=10" alt="GitHub Streak" />
 </p>
-
-### 🔥 STREAK STATS
-
-<p>
-<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=soumyajitxedu&theme=tokyonight&hide_border=true&background=0d1117&stroke=00D9FF&ring=8A2BE2&fire=FF6B00&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=8A2BE2&sideLabels=8A2BE2&dates=8B949E&border_radius=10" alt="Streak Stats" />
-</p>
-
-### 🚀 CONTRIBUTION HEATMAP
-
-<p>
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=soumyajitxedu&custom_title=🚀%20Annual%20Contribution%20Activity%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B00&area=true&hide_border=true&theme=react-dark" alt="Activity Graph" />
-</p>
-
-### 💻 LANGUAGE DISTRIBUTION
-
-<p>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=soumyajitxedu&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=10&border_radius=10&card_width=400&custom_title=🔥%20Most%20Used%20Languages" alt="Top Languages" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=soumyajitxedu&layout=donut&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8&border_radius=10&custom_title=📊%20Language%20Breakdown" alt="Language Donut" />
-</p>
-
-### 📊 LANGUAGE PIE CHART
-
-<p>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=soumyajitxedu&layout=pie&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=10&border_radius=10&custom_title=🥧%20Language%20Pie%20Chart" alt="Language Pie" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=soumyajitxedu&layout=donut-vertical&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8&border_radius=10&custom_title=📈%20Language%20Vertical" alt="Language Vertical" />
-</p>
-
-### 🏆 GITHUB TROPHIES
-
-<p>
-<img width="98%" src="https://github-profile-trophy.vercel.app/?username=soumyajitxedu&theme=algolia&no-frame=true&no-bg=true&column=8&margin-w=10&margin-h=10" alt="Trophies" />
-</p>
-
-### 📉 PROFILE SUMMARY & CONTRIBUTION MAP
-
-<p>
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soumyajitxedu&theme=github_dark" alt="Profile Details" />
-</p>
-
-<p>
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=soumyajitxedu&theme=github_dark" alt="Repos per Language" />
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=soumyajitxedu&theme=github_dark" alt="Most Commit Language" />
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=soumyajitxedu&theme=github_dark" alt="Stats" />
-</p>
-
-<p>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=soumyajitxedu&theme=github_dark&utcOffset=5.5" alt="Productive Time" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/commits?username=soumyajitxedu&theme=github_dark" alt="Commits" />
-</p>
-
-### 🐍 CONTRIBUTION SNAKE
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/soumyajitxedu/soumyajitxedu/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/soumyajitxedu/soumyajitxedu/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/soumyajitxedu/soumyajitxedu/output/github-snake-dark.svg" width="100%" />
-</picture>
 
 ### ⚡ GITHUB METRICS
 
@@ -508,36 +462,12 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🎯 CURRENT FOCUS
 
 
 
 
 
-```typescript
-const soumyajit = {
-    location: "India 🇮🇳",
-    role: "AI Architect & Full Stack Developer",
-    currentlyWorking: [
-        "AI-Powered Solutions",
-        "Blockchain Applications",
-        "Cloud-Native Apps"
-    ],
-    learning: [
-        "Advanced Deep Learning",
-        "Quantum Computing",
-        "Web3 Technologies"
-    ],
-    communities: {
-        contributor: "Open Source Projects",
-        mentor: "Tech Communities",
-        speaker: "Developer Meetups"
-    }
-};
-```
 
-</td>
-<td width="50%" valign="top">
 
 ### 💡 INTEREST MATRIX
 <img src="https://media1.tenor.com/m/NU-qNSGdB_4AAAAd/sealyx-alya-sometimes-hides-her-feelings-in-russian.gif" width="47%" />
@@ -549,59 +479,13 @@ const soumyajit = {
 
 <img src="https://i.giphy.com/etU9iNPvK9ser5bnTR.webp" width="45%">
 
-```python
-interests = {
-    "AI/ML": ["TensorFlow", "PyTorch", "Transformers"],
-    "Backend": ["Python", "Node.js", "Django", "FastAPI"],
-    "Frontend": ["React", "Next.js", "TypeScript"],
-    "Cloud": ["AWS", "GCP", "Azure", "Kubernetes"],
-    "Blockchain": ["Solidity", "Web3.js", "Smart Contracts"],
-    "DevOps": ["Docker", "CI/CD", "GitOps"],
-    "Database": ["PostgreSQL", "MongoDB", "Redis"],
-    "Design": ["Figma", "Blender", "3D Modeling"]
-}
 
-print(f"Technologies: {sum(len(v) for v in interests.values())}!")
-```
 
 </td>
 </tr>
-</table>
 
-### ⚡ FUN FACTS
 
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Coffee" width="55" height="55" />
-<br/><b>Coffee Addict</b>
-<br/><sub>~∞ cups/day</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Crescent%20Moon.png" alt="Moon" width="55" height="55" />
-<br/><b>Night Owl</b>
-<br/><sub>3 AM = Peak Hours</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="55" height="55" />
-<br/><b>Eternal Learner</b>
-<br/><sub>Never Stop Growing</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="55" height="55" />
-<br/><b>Debug Master</b>
-<br/><sub>I fear bugs too much</sub>
-</td>
-</tr>
-</table>
 
-### 📬 LET'S CONNECT
-
-<a href="mailto:soumyajitworks26@gmail.com">
-  <img src="https://img.shields.io/badge/Email-soumyajitworks26%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-<br/><br/>
 
 <img src="https://img.shields.io/badge/💼_Open_to-Collaborations_|_Projects_|_Opportunities-00D9FF?style=for-the-badge" alt="Open to"/>
 
@@ -609,19 +493,6 @@ print(f"Technologies: {sum(len(v) for v in interests.values())}!")
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   LATEST ARTICLES                              -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> ━━ LATEST ARTICLES & INSIGHTS ━━
-
-<a href="https://medium.com/@soumyajitworks26">
-<img src="https://github-read-medium-git-main.vercel.app/latest?username=soumyajitworks26&limit=4&theme=react" alt="Latest Medium Posts" />
-</a>
-
-</div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
